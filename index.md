@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/jptwl/ioTest/edit/gh-pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[testlink](www.baidu.com)
+[testlink](https://www.baidu.com)
+
+[testlink2](dynamictheme://detail)
 
 ### Markdown
 
